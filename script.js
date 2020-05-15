@@ -119,7 +119,7 @@ function coronaDestroyed() {
 
     endgameEl.innerHTML = `
         <h1>Hoorah!</h1>
-        <h2>You are safe from COVID-19</h2>
+        <h2>You have completed Words</h2>
         <button onclick="location.reload()">Play Again</button>
     `;
 
